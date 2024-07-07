@@ -1,6 +1,6 @@
 # Memory Manager
 
-This program implements a simple memory manager that allows users to allocate and deallocate memory blocks within a fixed-size memory block.
+A simple memory manager that allows users to allocate and deallocate memory blocks within a fixed-size memory block.
 
 ## Functionality
 
